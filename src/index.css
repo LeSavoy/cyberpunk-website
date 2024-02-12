@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Refinery";
+    src: url(./src/fonts/refinery-25-black.ttf);
+}
